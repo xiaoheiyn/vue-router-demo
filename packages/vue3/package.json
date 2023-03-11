@@ -1,0 +1,7 @@
+{
+  "name": "vue2",
+  "dependencies": {
+    "vue": "^3.2.34",
+    "vue-router": "4.1.6"
+  }
+}
